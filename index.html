@@ -50,6 +50,22 @@ Add index.html file to site root containing:
   .author {
     display: none;
   }
+  .lowericons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left:0;
+    right:0;
+    bottom:40px;
+    cursor: pointer;
+  }
+  .lowericon {
+    font-size: 48px;
+  }
+  .lowericons_title {
+    font-size: 18px;
+  }
 </style>
 
 </head>
@@ -73,7 +89,7 @@ Add index.html file to site root containing:
            //var date = d.getFullYear() + "-" + (month < 10 ? '0' + month : month) + "-" + (day < 10 ? '0' + day : day) +
            // var date = (hour < 10 ? '0' + hour : hour)
            // + ":" + (sec < 10 ? '0' + sec : sec)
-          var date = (hour > 12 ? hour - 12 : hour) + ":" + (min < 10 ? '0' + min : min) + " " + (hour > 12 ? 'PM' : 'AM');
+          var date = (hour > 12 ? hour - 12 : hour) + ":" + (min < 10 ? '0' + min : min) + " " + (hour >= 12 ? 'PM' : 'AM');
            return date;
        }
 
@@ -109,6 +125,7 @@ Add index.html file to site root containing:
     </div>
   </div>
   
+
   <link id="fonts-googleapis-com-icon" rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/icon?family=Material+Icons" media="all">
 
   <link id="georgiadata-github-io-site-css-font-awesome-min-css" rel="stylesheet" type="text/css" href="https://georgiadata.github.io/site/css/font-awesome.min.css" media="all">
@@ -118,7 +135,14 @@ Add index.html file to site root containing:
  <div style="font-size:32px">
   <i class="showAppsX material-icons appIconX" style="font-size:32px">&#xE5C3;</i>
 
-  <i class="fas fa-star"></i>
+  
+ </div>
+
+ <div class="lowericons">
+    <div>
+      <i class="lowericon fas fa-star"></i><br>
+      <span class="lowericons_title">Sample</span>
+    </div>
  </div>
 
 </body>
