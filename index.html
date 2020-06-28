@@ -29,6 +29,10 @@ Add index.html file to site root containing:
     background-repeat:no-repeat;
     color:#999;
   }
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
   .center {
     display: flex;
     justify-content: center;
@@ -60,6 +64,11 @@ Add index.html file to site root containing:
     bottom:40px;
     cursor: pointer;
   }
+  .lowericons div {
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+  }
   .lowericon {
     font-size: 48px;
   }
@@ -73,7 +82,7 @@ Add index.html file to site root containing:
 <body>
   
   <div class="center">
-    <div class="box">
+    <div class="box" style="max-width: 500px">
 
       <div style="font-size: 52px; color:#fff"><span id='ct' ></span></div>
       
@@ -128,8 +137,10 @@ Add index.html file to site root containing:
 
   <link id="fonts-googleapis-com-icon" rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/icon?family=Material+Icons" media="all">
 
+  <!--
   <link id="georgiadata-github-io-site-css-font-awesome-min-css" rel="stylesheet" type="text/css" href="https://georgiadata.github.io/site/css/font-awesome.min.css" media="all">
-
+  -->
+  
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 
  <div style="font-size:32px">
@@ -141,7 +152,12 @@ Add index.html file to site root containing:
  <div class="lowericons">
     <div>
       <i class="lowericon fas fa-star"></i><br>
-      <span class="lowericons_title">Sample</span>
+      <a href="list"><span class="lowericons_title">To Buy</span></a>
+    </div>
+
+    <div>
+      <i class="lowericon fas fa-star"></i><br>
+      <a href="../keto"><span class="lowericons_title">Keto</span></a>
     </div>
  </div>
 
