@@ -1,17 +1,30 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<title>Planet.Live</title>
-<link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex, nofollow">
-<meta name="googlebot" content="noindex, nofollow">
-
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Planet Live</title>
+<link rel="icon" type="image/x-icon" href="../community/img/logo/favicon.png" />
+<link type="text/css" href="../community/css/community.css" rel="stylesheet" />
 <script type="text/javascript" src="../community/js/d3/d3.v5.min.js"></script>
 <script type="text/javascript" src="../community/js/jquery/jquery-1.12.4.min.js"></script>
 <script type="text/javascript" src="../community/js/common/showdown.min.js"></script>
 <script type="text/javascript" src="../community/js/common/common.js"></script>
+<script type="text/javascript" src="../community/js/common/navigation.js"></script>
+
+<script>
+  param.titleArray = ["planet","live"]
+  //param.footer = "/localsite/footer.html"
+</script>
+<style>
+  .upperIcons {display: none;}
+</style>
+
+<!-- For stars -->
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+
+</head>
+
 
 
 <!--
@@ -24,32 +37,24 @@ Add index.html file to site root containing:
     margin:0px;
     font-size: 14px;
     font-family: 'Lato', sans-serif;
-
     background-image:url(img/bkgd/stars.jpg);
     background-repeat:no-repeat;
-    color:#999;
-  }
-  a {
-    color: #fff;
-    text-decoration: none;
   }
   .center {
     display: flex;
     justify-content: center;
     align-items: center; 
-
     position: absolute;
     left:0;
     top:0;
     bottom:0;
     right:0;
     bottom:0;
-
-    borderX: 10px blue solid;
   }
   .box {
     background: rgba(33, 33, 33, 0.6);
     padding:30px;
+    color:#999;
   }
   .author {
     display: none;
@@ -63,6 +68,7 @@ Add index.html file to site root containing:
     right:0;
     bottom:40px;
     cursor: pointer;
+    color:#999;
   }
   .lowericons div {
     padding-left: 20px;
@@ -74,6 +80,7 @@ Add index.html file to site root containing:
   }
   .lowericons_title {
     font-size: 18px;
+    color: #fff;
   }
 </style>
 
@@ -124,40 +131,38 @@ Add index.html file to site root containing:
         <script>TheySaidSo.render({ qod_category : 'life'});</script>
       </div>
 
-      <br><br>
+      <br>
 
-      <h3>What is it?</h3>
+      <h3>What am I?</h3>
+      <li>A starting point for family project sharing</li>
+
+      <h3>What would I like to be?</h3>
       <li>A starting point for video call backgrounds</li>
       <li>A starting point for home automation controls</li>
-      <li>A starting point for family project sharing</li>
-      <li>A starting point for sharing news and entertainment</li>
+      <li>A starting point for highlighting news and entertainment</li>
     </div>
   </div>
   
 
-  <link id="fonts-googleapis-com-icon" rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/icon?family=Material+Icons" media="all">
-
-  <!--
-  <link id="georgiadata-github-io-site-css-font-awesome-min-css" rel="stylesheet" type="text/css" href="https://georgiadata.github.io/site/css/font-awesome.min.css" media="all">
-  -->
   
-  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
-
- <div style="font-size:32px">
-  <i class="showAppsX material-icons appIconX" style="font-size:32px">&#xE5C3;</i>
-
   
+
  </div>
 
  <div class="lowericons">
-    <div>
+    <div class="local" style="display:none">
       <i class="lowericon fas fa-star"></i><br>
-      <a href="list"><span class="lowericons_title">To Buy</span></a>
+      <a href="list"><span class="lowericons_title">Lists</span></a>
     </div>
 
     <div>
       <i class="lowericon fas fa-star"></i><br>
       <a href="../keto"><span class="lowericons_title">Keto</span></a>
+    </div>
+
+    <div>
+      <i class="lowericon fas fa-star"></i><br>
+      <a href="../familytrees"><span class="lowericons_title">Trees</span></a>
     </div>
  </div>
 
