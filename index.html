@@ -79,6 +79,9 @@ Add index.html file to site root containing:
     font-size: 48px;
     color: #999;
   }
+  .lowericon:hover {
+    color: #fff;
+  }
   .lowericons_title {
     font-size: 18px;
     color: #fff;
@@ -93,54 +96,20 @@ Add index.html file to site root containing:
     <div class="box" style="max-width: 500px">
 
       <div style="font-size: 52px; color:#fff"><span id='ct' ></span></div>
-      
-      <script type="text/javascript">
-        function formatDate(d) {
-           //var d = new Date();
-           var year = d.getMonth() + 1;
-           var day = d.getDate();
-           var month = d.getMonth() + 1;
-           var hour = d.getHours();
-           var min = d.getMinutes();
-           var sec = d.getSeconds();
-           //var date = d.getFullYear() + "-" + (month < 10 ? '0' + month : month) + "-" + (day < 10 ? '0' + day : day) +
-           // var date = (hour < 10 ? '0' + hour : hour)
-           // + ":" + (sec < 10 ? '0' + sec : sec)
-          var date = (hour > 12 ? hour - 12 : hour) + ":" + (min < 10 ? '0' + min : min) + " " + (hour >= 12 ? 'PM' : 'AM');
-           return date;
-       }
 
-        // Source: https://www.plus2net.com/javascript_tutorial/clock.php
-        function display_c(){
-          display_ct();
-          // TO DO: Change the refresh rate to minutes, delay 
-          var refresh=10; // Refresh rate in seconds
-          mytime=setTimeout('display_ct()',refresh)
-        }
-
-        function display_ct() {
-          var x = new Date();
-          document.getElementById('ct').innerHTML = formatDate(x);
-          //console.log(formatDate(x));
-          display_c();
-        }
-        display_ct();
-      </script>
-
+      <div style="margin:15px 0">Random quote:</div> 
       <script type="text/javascript" src="https://theysaidso.com/gadgets/v3/theysaidso.js"></script>
       <div classX="tso_default_style">
         <script>TheySaidSo.render({ qod_category : 'life'});</script>
       </div>
 
-      <br>
-
-      <h3>What am I?</h3>
+      <div style="margin:15px 0">What am I?</div>
       <li>A starting point for family project sharing</li>
 
-      <h3>What would I like to be?</h3>
+      <div style="margin:15px 0">What would I like to be?</div>
       <li>A starting point for video call backgrounds</li>
-      <li>A starting point for home automation controls</li>
-      <li>A starting point for highlighting news and entertainment</li>
+      <li>A starting point for individualized automation controls</li>
+      <li>A starting point for sharing news and entertainment</li>
     </div>
   </div>
   
@@ -177,6 +146,78 @@ Add index.html file to site root containing:
       <span class="lowericons_title">Guides</span></a>
     </div>
  </div>
+
+
+<script type="text/javascript">
+  function formatDate(d) {
+     //var d = new Date();
+     var year = d.getMonth() + 1;
+     var day = d.getDate();
+     var month = d.getMonth() + 1;
+     var hour = d.getHours();
+     var min = d.getMinutes();
+     var sec = d.getSeconds();
+     //var date = d.getFullYear() + "-" + (month < 10 ? '0' + month : month) + "-" + (day < 10 ? '0' + day : day) +
+     // var date = (hour < 10 ? '0' + hour : hour)
+     // + ":" + (sec < 10 ? '0' + sec : sec)
+    var date = (hour > 12 ? hour - 12 : hour) + ":" + (min < 10 ? '0' + min : min) + " " + (hour >= 12 ? 'PM' : 'AM');
+     return date;
+ }
+
+  // Source: https://www.plus2net.com/javascript_tutorial/clock.php
+  function display_c(){
+    display_ct();
+    // TO DO: Change the refresh rate to minutes, delay 
+    var refresh=10; // Refresh rate in seconds
+    mytime=setTimeout('display_ct()',refresh)
+  }
+
+  function display_ct() {
+    var x = new Date();
+    document.getElementById('ct').innerHTML = formatDate(x);
+    //console.log(formatDate(x));
+    display_c();
+  }
+  display_ct();
+
+  (function() {
+    var hidden = "hidden";
+
+    // Standards:
+    if (hidden in document)
+      document.addEventListener("visibilitychange", onchange);
+    else if ((hidden = "mozHidden") in document)
+      document.addEventListener("mozvisibilitychange", onchange);
+    else if ((hidden = "webkitHidden") in document)
+      document.addEventListener("webkitvisibilitychange", onchange);
+    else if ((hidden = "msHidden") in document)
+      document.addEventListener("msvisibilitychange", onchange);
+    // IE 9 and lower:
+    else if ("onfocusin" in document)
+      document.onfocusin = document.onfocusout = onchange;
+    // All others:
+    else
+      window.onpageshow = window.onpagehide
+      = window.onfocus = window.onblur = onchange;
+
+    function onchange (evt) {
+      var v = "visible", h = "hidden",
+          evtMap = {
+            focus:v, focusin:v, pageshow:v, blur:h, focusout:h, pagehide:h
+          };
+
+      evt = evt || window.event;
+      if (evt.type in evtMap)
+        document.body.className = evtMap[evt.type];
+      else
+        document.body.className = this[hidden] ? "hidden" : "visible";
+    }
+
+    // set the initial state (but only if browser supports the Page Visibility API)
+    if( document[hidden] !== undefined )
+      onchange({type: document[hidden] ? "blur" : "focus"});
+  })();
+</script>
 
 </body>
 </html>
