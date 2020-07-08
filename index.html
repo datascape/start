@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Planet Live</title>
 <link rel="icon" type="image/x-icon" href="../community/img/logo/favicon.png" />
-<link type="text/css" href="../community/css/community.css" rel="stylesheet" />
+<link rel="stylesheet" href="../localsite/css/base.css" />
 <script type="text/javascript" src="../community/js/d3/d3.v5.min.js"></script>
 <script type="text/javascript" src="../community/js/jquery/jquery-1.12.4.min.js"></script>
 <script type="text/javascript" src="../community/js/common/showdown.min.js"></script>
@@ -32,7 +32,10 @@ Add index.html file to site root containing:
 <script language="JavaScript">window.location="start/";</script>
 -->
 
-<style>  
+<style>
+  #footer { /* temp */
+    display: none;
+  }
   body {
     margin:0px;
     font-size: 14px;
@@ -97,7 +100,7 @@ Add index.html file to site root containing:
 
       <div style="font-size: 52px; color:#fff"><span id='ct' ></span></div>
 
-      <div style="margin:15px 0">Random quote:</div> 
+      <div style="margin:15px 0">Terrible random quote:</div> 
       <script type="text/javascript" src="https://theysaidso.com/gadgets/v3/theysaidso.js"></script>
       <div classX="tso_default_style">
         <script>TheySaidSo.render({ qod_category : 'life'});</script>
