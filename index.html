@@ -60,7 +60,17 @@ Add index.html file to site root containing:
     color:#999;
   }
   .author {
-    display: none;
+    display: block !important;
+    margin: 10px 0 0 0 !important;
+  }
+  .author:before {
+    content: " - " !important;
+    content: "" !important;
+    color: #55b !important;
+  }
+  .author a {
+    color: #55b !important;
+    font-family: 'Lato', sans-serif !important;
   }
   .lowericons {
     display: flex;
@@ -89,6 +99,9 @@ Add index.html file to site root containing:
     font-size: 18px;
     color: #fff;
   }
+  .quote_text a {
+    font-size: 20px !important;
+  }
 </style>
 
 </head>
@@ -96,17 +109,21 @@ Add index.html file to site root containing:
 <body>
   
   <div class="center">
-    <div class="box" style="max-width: 500px">
+    <div class="box" style="max-width: 600px">
 
       <div style="font-size: 52px; color:#fff"><span id='ct' ></span></div>
 
-      <div style="margin:15px 0">Terrible random quote:</div> 
+      
       <script type="text/javascript" src="https://theysaidso.com/gadgets/v3/theysaidso.js"></script>
       <div classX="tso_default_style">
         <script>TheySaidSo.render({ qod_category : 'life'});</script>
       </div>
 
-      <div style="margin:15px 0">What am I?</div>
+      <!--
+      <div style="margin-right:15px; float:left"><a href="https://theysaidso.com" style="color: #55b">Because TheySaidSo.com</a></div> 
+      -->
+
+      <div style="clear:both; margin:30px 0 0 0">What am I?</div>
       <li>A starting point for family project sharing</li>
 
       <div style="margin:15px 0">What would I like to be?</div>
