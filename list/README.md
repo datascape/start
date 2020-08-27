@@ -1,6 +1,6 @@
 # Our shopping list 
 
-Tooth brush heads  
+71" rigid piece of trim for green screen. 2 1/8 wide. 2 1/4 might fit. Space is 2 1/2".
 
 Filter for fan above our stove (9 by 10 inches)  
 
@@ -24,6 +24,11 @@ Ricota Cheese
 
 LED Bulbs for hallway - aboout 1 centimeter wide - not too bright
 
+## Furniture
+
+### Shelf by water heater closet  
+22 3/4" ideal, up to 27" good, or a max of 30" if 29" interior for laundry baskets.  
+
 ## Cloud Services
 
 [Google Monthly (Loren's account)](https://console.cloud.google.com/billing/017EC7-2CC5B8-9ED176/history?organizationId=612484903596)  
@@ -34,6 +39,7 @@ LED Bulbs for hallway - aboout 1 centimeter wide - not too bright
 
 [Nektar Impact LX49+ Keyboard Controller](https://smile.amazon.com/Controlador-teclado-Nektar-IMPACT-LX49/dp/B01HZWL64O/ref=pb_allspark_session_sims_desktop_267_4)
 
+[Dishwasher Manual](https://downloadcenter.samsung.com/content/UM/201504/20150413184925371/DW80H994_DD68-00164A-03_EN_MES.pdf)
 <!--
 Sorta works
 Drain plug for kitchen sink - no holes.  (4.5 inches over 3.5 inch hole.)  
