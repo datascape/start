@@ -9,7 +9,7 @@ Filter for fan above our stove (9 by 10 inches)
 
 ### Tooth paste  
 
-Dad recomends: Brush with a baking soda toothpaste without fluoride or titanium dioxide, floss, then rinse with fluoride 30 minutes later, ideally right before going to bed. Again gently after each meal. Use hot water to soften bristles. Move in circular patterns that pull rather than push the gums.  
+Dad recomends: Brush with a baking soda toothpaste without fluoride or titanium dioxide, floss, then rinse with fluoride 30 minutes or more later, ideally right before going to bed. (Brushing often with fluoride causes stiff joints.) Brush gently without fluoride after each meal or sweet drink. Use hot water to soften bristles first. Move electric brush in circular patterns that pull gums rather than push.  
 
 <!--
 [Jason Sea Fresh Anti-Cavity and Strengthening Gel Toothpaste - Deep Sea Spearmint](https://www.amazon.com/Jason-Fresh-Anti-Cavity-Strengthening-Toothpaste/dp/B00J7G0HLA/ref=sr_1_2?dchild=1&keywords=JASON+Spearmint+Deep+Sea+anti-cavity&qid=1596992472&s=beauty&sr=1-2)
