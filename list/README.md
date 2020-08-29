@@ -9,15 +9,19 @@ Filter for fan above our stove (9 by 10 inches)
 
 ### Tooth paste  
 
+Dad recomends: Brush with a baking soda toothpaste without fluoride or titanium dioxide, floss, then rinse with fluoride 30 minutes later, ideally right before going to bed. Again gently after each meal. Use hot water to soften bristles. Move in circular patterns that pull rather than push the gums.  
+
+<!--
 [Jason Sea Fresh Anti-Cavity and Strengthening Gel Toothpaste - Deep Sea Spearmint](https://www.amazon.com/Jason-Fresh-Anti-Cavity-Strengthening-Toothpaste/dp/B00J7G0HLA/ref=sr_1_2?dchild=1&keywords=JASON+Spearmint+Deep+Sea+anti-cavity&qid=1596992472&s=beauty&sr=1-2)
 
 [JASON Simply Coconut Strengthening Toothpaste, Coconut Mint](https://www.amazon.com/gp/product/B074D96PLL/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1)
+-->
 
 NOT Arm & Hammer Bright & Strong - Contains titanium dioxide  
 
 ## Food
 
-Ricota Cheese  
+Ricota Cheese - Increases muscle mass  
 
 
 ## Hardware  
@@ -31,9 +35,14 @@ LED Bulbs for hallway - aboout 1 centimeter wide - not too bright
 
 ## Cloud Services
 
-[Google Monthly (Loren's account)](https://console.cloud.google.com/billing/017EC7-2CC5B8-9ED176/history?organizationId=612484903596)  
+[Google Monthly (Loren's main account)](https://console.cloud.google.com/billing/017EC7-2CC5B8-9ED176/history?organizationId=612484903596)  
 
 <br>
+
+# Maintenance
+
+Upstairs filter - Changed August 24, 2020 - One or two remain.  
+Downstairs filter - Changed around May 2020
 
 # Inventory
 
