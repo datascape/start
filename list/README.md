@@ -1,12 +1,18 @@
 # Our Shopping List 
 
-71" rigid piece of trim for green screen. 2 1/8 wide. 2 1/4 might fit. Space is 2 1/2".
+20" by 3.5' styrofoam to cover opening under house - find it here  
+
+71" rigid piece of trim for green screen. 2 1/8 wide. 2 1/4 might fit. Space is 2 1/2".  
+
+HVAC Filters
 
 Filter for fan above our stove (9 by 10 inches)  
 
 14 x 6 vent for intake in Terri's room.  
 
 Bull's Eye 1-2-3 Primer Gray - $20.28 Amazon  
+
+
 
 
 ## Health
@@ -30,7 +36,8 @@ Ricota Cheese - Increases muscle mass
 
 ## Hardware  
 
-LED Bulbs for hallway - aboout 1 centimeter wide - not too bright
+LED Bulbs for hallway - aboout 1 centimeter wide - not too bright  
+Also used for front porch (1 of 3 is out)  
 
 ## Furniture
 
@@ -42,8 +49,8 @@ LED Bulbs for hallway - aboout 1 centimeter wide - not too bright
 
 # Maintenance
 
-Upstairs filter - Changed August 24, 2020 - One or two remain.  
-Downstairs filter - Changed around May 2020  
+Upstairs filter - 16 x 20 x 1 - Changed August 24, 2020 - One or two remain.  
+Downstairs filter - 16 x 25 x 1 - Changed around Sept 30, 2020 - None remain 
 <br>
 
 ---
@@ -52,7 +59,8 @@ Downstairs filter - Changed around May 2020
 
 [Nektar Impact LX49+ Keyboard Controller](https://smile.amazon.com/Controlador-teclado-Nektar-IMPACT-LX49/dp/B01HZWL64O/ref=pb_allspark_session_sims_desktop_267_4)
 
-[Dishwasher Manual](https://downloadcenter.samsung.com/content/UM/201504/20150413184925371/DW80H994_DD68-00164A-03_EN_MES.pdf)
+[Dishwasher Manual](https://downloadcenter.samsung.com/content/UM/201504/20150413184925371/DW80H994_DD68-00164A-03_EN_MES.pdf) - Samsung 
+DW80H994 Series, DW80J994 Series, DW80J755 Series
 <!--
 Sorta works
 Drain plug for kitchen sink - no holes.  (4.5 inches over 3.5 inch hole.)  
@@ -73,7 +81,23 @@ Drain plug for kitchen sink - no holes.  (4.5 inches over 3.5 inch hole.)
 
 ---
 
+# Travel - Santa Barbara
+
+Jane’s coconut cake
+1000 steps & Mesa Lane
+best seafood, Brophy Bros in the Harbor
+Longboards for the best views while drinking & eating
+Best new Mexican, is Los Agaves
+La super rica for food. Expect a line and bring cash. Yummiest!
+The playground at Alameda Plaza - even teens play there
+
+
+---
+
 # Projects
 
 Cut metal around HVAC intake in upstairs ceiling.
+
+
+
 
