@@ -19,15 +19,22 @@ Thin Primer
 ## Projects
 
 Safe combo  
+Oil change
+Fix light in water heater room
+Check "Retirement" folder or GaBreeze directly for info regarding withdrawals for Ethan's or my college expenses
+Add chicken wire to prevent squirels
 Nest Doorbell  
+Ethan bike:
+	Tune up chain & breaks
+	Longer kick-stand
+	Chain popped out in gear 1 on side with 3.
+	Clicking in 2 and 3 on side with 8.
+Chimney Cover
+	Around: 56 3/4" by 16 3/4" (Ideal interior: 18" or 17.5" by 57.25")
+	Outer edge of bricks: 58" by 19"
 
-## Christmas
-
-Space grey iPad Air with keyboard with trackpad case and pencil  
-https://www.apple.com/ipad-keyboards/  
-https://www.apple.com/apple-pencil/  
-
-Google Nest Hub Max  
+Todd Canale, Lakeview Applicance Service - 888.878.4546 contact@LakeviewApplianceService.com - Seems skiled. Came by during Covid by mistake.
+ 
 
 ## Movies
 
@@ -36,6 +43,10 @@ Beasts of the southern wild
 
 Learning....
 https://brilliant.org/
+
+
+Sea Otters!
+https://www.seaottersavvy.org/ecosystem-superheroes
 
 <!--
 
@@ -47,7 +58,7 @@ https://www.amazon.com/Magic-Keyboard-12-9-inch-iPad-Generation/dp/B0863F794B/re
 
 ### Tooth paste  
 
-Dad recomends: brush with a baking soda toothpaste without fluoride or titanium dioxide, floss, then rinse with fluoride 30 minutes or more later, ideally right before going to bed. (Brushing often with fluoride causes stiff joints.) When practical, brush gently without fluoride after each meal or sweet drink (even I don't do this yet).  Use hot water to soften bristles first. Move an electric toothbrush in circular motions that pull and massage gums rather than push. Plaque in your teeth is the same as the plaque in your brain. All you have to do is break up the colonies when flossing nightly, don't over worry it. And advance along a long piece of floss, so you are not moving gunk from one tooth to the next.
+Loren recomends: brush with a baking soda toothpaste without fluoride or titanium dioxide, floss, then rinse with fluoride 30 minutes or more later, ideally right before going to bed. (Brushing often with fluoride causes stiff joints.) When practical, brush gently without fluoride after each meal or sweet drink (even I don't do this yet).  Use hot water to soften bristles first. Move an electric toothbrush in circular motions that pull and massage gums rather than push. Plaque in your teeth is the same as the plaque in your brain. All you have to do is break up the colonies when flossing nightly, don't over worry it. And advance along a long piece of floss, so you are not moving gunk from one tooth to the next.
 
 <!--
 [Jason Sea Fresh Anti-Cavity and Strengthening Gel Toothpaste - Deep Sea Spearmint](https://www.amazon.com/Jason-Fresh-Anti-Cavity-Strengthening-Toothpaste/dp/B00J7G0HLA/ref=sr_1_2?dchild=1&keywords=JASON+Spearmint+Deep+Sea+anti-cavity&qid=1596992472&s=beauty&sr=1-2)
@@ -68,6 +79,9 @@ Ricota Cheese - Increases muscle mass
 
 Goldminer Sourdouh Square Bread (Krogers)  
 
+Plant based protein, meatless meat
+
+Jello
 
 
 ## Longevity
@@ -77,10 +91,16 @@ Hyperbaric Oxygen Therapy - increases
 
 ## Hardware  
 
+Order 3/4 spade bit for kit - other broke
+
 LED Bulbs for hallway - aboout 1 centimeter wide - not too bright  
 Also used for front porch (1 of 3 is out)  
 
 LOWES - [#10 x 2-3/4-in Bronze Epoxy Flat Exterior Wood Screw](https://www.lowes.com/pd/Power-Pro-One-10-x-2-3-4-in-Bronze-Epoxy-Flat-Exterior-Multi-Material-Screws-1-lb/1000310357) - Best length for 2x4s  
+
+## IoT Network
+
+[Z-Wave](https://en.wikipedia.org/wiki/Z-Wave) is used by security companies like Vivant $58/mo (better to use MiFi). DirectTV called back to pitch Alder ($40/mo).  
 
 ## Furniture
 
@@ -94,8 +114,10 @@ Replacement Bake Element in stove (2020) - $12 part B1094 ERP Parts, Inc. ERP-B1
 
 # Maintenance
 
-Upstairs filter - 16 x 20 x 1 - Changed August 24, 2020 - One or two remain.  
-Downstairs filter - 16 x 25 x 1 - Changed around Sept 30, 2020 - None remain 
+Upstairs filter - 16 x 20 x 1 - Changed Feb 9, 2021 - One remains  
+Downstairs filter - 16 x 25 x 1 - Changed Feb 15, 2021 - One remains  
+
+Do an Amazon Subsribe and Save next time.  
 <br>
 
 ---
