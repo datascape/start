@@ -4,21 +4,6 @@
 ## To Do
 
 
-Medicaid - Send paperwork to be recertified in NC (once we get drivers license)
-Georgia Department of Community Health  
-Medicaid ID (Member ID): 222111418212  
-Coverage end date: 2021-08-31 - Qualified Medicare Beneficiary  
-[gateway.ga.gov](https://gateway.ga.gov)  
-VivMacks c-----Love123
-Older sibling name: Jonathan  High school mascot: Panther  Younger sibling middle name: Rhodie
-Case Number	112149162
-
-
-Social Security is being forwarded from 721 Grant St to Weatherstone.   
-[ssa.gov/myaccount](https://ssa.gov/myaccount) - Online auth code requested on Feb 18.  
-Mom will recieve an activation code forwarded from 721 Grant St around the end of February.  
-
-
 Aetna Insurance  
 
 Get on denture dentist wait lists  
@@ -32,6 +17,21 @@ Find local virtual clubs, meetups, senior friend site
 
 [Covid Shot Map](https://myspot.nc.gov/) - had none  
 
+## In Progress
+
+Medicaid - Send paperwork to be recertified in NC (once we get drivers license)
+Georgia Department of Community Health  
+Medicaid ID (Member ID): 222111418212  
+Coverage end date: 2021-08-31 - Qualified Medicare Beneficiary  
+[gateway.ga.gov](https://gateway.ga.gov)  
+VivMacks c-----Love123
+Older sibling name: Jonathan  High school mascot: Panther  Younger sibling middle name: Rhodie
+Case Number	112149162
+
+
+Social Security is being forwarded from 721 Grant St to Weatherstone.   
+[ssa.gov/myaccount](https://ssa.gov/myaccount) - Online auth code requested on Feb 18.  
+Mom will recieve an activation code forwarded from 721 Grant St around the end of February.  
 
 ### After COVID shot
 
