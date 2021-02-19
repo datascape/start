@@ -8,22 +8,30 @@ How to share screen with Loren.  Click the icon in upper right.
 
 ## To Do
 
-[Travelers Auto Insurance](https://www.travelers.com/car-insurance)    
-2006 CHRYSLER PT CRUISER TOURING - VIN 3A4FY58B56T207088
-c... 88\*V  
+
 
 Aetna Insurance  
 
 Get on denture dentist wait lists  
 
+Order new checks
+
 Access to stocks  
 
 Document box content, Find eye perscription, Find keys  
 
-
 Find local virtual clubs, meetups, senior friend site  
 
 [Covid Shot Map](https://myspot.nc.gov/) - had none  
+
+### In March
+
+March 19 - Confirm Travelers Auto Insurance autopaid   
+
+### Before January 15, 2022
+
+AAA expires March 1, 2022 - $68 this year. Ask for special to avoid $94/yr in 2022.
+
 
 ## In Progress
 
@@ -56,6 +64,16 @@ Our [Chapel Hill Low Income List](../chapelhill/)
 ## United Community Bank
 
 Monthly SS check goes here ($1,018)  
+
+## Sprint T-Mobile
+
+[View my Bill](https://www.sprint.com/en/my-sprint/view-my-bill.html#/!/charges) - Hope2!
+Feb 10 payment: $146.99 Mastercard\*8564  
+
+## Travelers Auto Insurance
+
+[Travelers Auto Insurance](https://www.travelers.com/car-insurance) - 88\*V   
+2006 CHRYSLER PT CRUISER TOURING - VIN 3A4FY58B56T207088 
 
 
 ## Shopping
