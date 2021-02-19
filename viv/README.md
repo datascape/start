@@ -4,6 +4,8 @@
 
 [voice.google.com](https://voice.google.com) - Enter phone number on right side.  
 
+How to share screen with Loren.  Click the icon in upper right.  
+
 ## To Do
 
 [Travelers Auto Insurance](https://www.travelers.com/car-insurance)    
