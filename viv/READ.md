@@ -4,7 +4,11 @@
 
 [voice.google.com](https://voice.google.com) - Enter phone number on right side.  
 
-How to share screen with Loren.  Click the icon in upper right.  
+
+How to share screen with Loren.  Click the "Chrome Desktop Remote" icon in upper right. <img src="chrome-desktop.png" style="width:24px; margin-top:-20px;">  
+
+Click "Share my screen" then click "Generate Code" and read the code to Loren over the phone. 
+
 
 ## To Do
 
@@ -93,6 +97,9 @@ Feb 10 payment: $146.99 Mastercard\*8564
 ## TV / Entertainment
 
 Channel search - Using large remote: source > menu  
+
+Dan's monthly Saturday radio show - [wcomfm.org](https://wcomfm.org/)  
+<!-- See What Love Did to Me -->
 
 ## How to create a Zoom call link
 
