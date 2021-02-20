@@ -8,15 +8,13 @@ How to share screen with Loren.  Click the icon in upper right.
 
 ## To Do
 
-
+Access to stocks  
 
 Aetna Insurance  
 
 Get on denture dentist wait lists  
 
-Order new checks
-
-Access to stocks  
+Order new checks  
 
 Document box content, Find eye perscription, Find keys  
 
@@ -54,6 +52,10 @@ Mom will recieve an activation code forwarded from 721 Grant St around the end o
 
 [Make DMV Appointment - What to bring](https://www.ncdot.gov/dmv/help/moving/Pages/new-residents.aspx) - Early morning and early afternoons tend to be the least busy times. Tuesdays, Wednesdays and Thursdays are great times to visit. Avoid the last day of the month and a lunch time visit – from 11 a.m. to 2 p.m.  
 
+## Order from InstaCart
+
+[instacart.com](https://instacart.com) - We used Loren's Google accoun to login.
+
 ## Senior Living
 
 Our [Chapel Hill Low Income List](../chapelhill/)  
@@ -85,7 +87,9 @@ Feb 10 payment: $146.99 Mastercard\*8564
 
 [Dog Training, Hiking, and Fun Meetup --- Dog THAF](https://www.meetup.com/DogTHAF/) 
 
+## TV / Entertainment
 
+Channel search - Using large remote: source > menu  
 
 ## How to create a Zoom call link
 
