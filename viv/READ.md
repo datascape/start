@@ -9,25 +9,48 @@ How to share screen with Loren.  Click the "Chrome Desktop Remote" icon in upper
 
 Click "Share my screen" then click "Generate Code" and read the code to Loren over the phone. 
 
+## Create a Zoom call link
+
+[Go to Zoom.us](https://zoom.us/) and login with your Google Account (Google icon at bottom).  
+Then click "Schedule a Meeting" on the right.  
+
+
 
 ## To Do
 
-Mail RPM stock - Retain McD and Amflac  
-
-Aetna Insurance  
+Mail RPM stock - Retain McD and Amflac   
 
 Get on denture dentist wait lists  
 
 Order new checks  
 
-Document box content, Find eye perscription, Find keys  
+[Made DMV Appointment - What to bring](https://www.ncdot.gov/dmv/help/moving/Pages/new-residents.aspx) - Early morning and early afternoons tend to be the least busy times. Tuesdays, Wednesdays and Thursdays are great times to visit. Avoid the last day of the month and a lunch time visit – from 11 a.m. to 2 p.m.
 
-Find local virtual clubs, meetups, senior friend site  
+Wednesday, April 07, 2021 at 02:00 pm for Driver License Renewal at Carrboro, 100 NC Hwy 54, Suite 104JJ Carrboro 27510
 
-[Covid Shot Map](https://myspot.nc.gov/) - had none  
+Bring:  
+Georgia Licenses  
+SS Card  
+Insurance with NC address  
+Mail from Social Security - Once we renew address  
+Preprinted financial statement - mail from stock perhaps  
+
+
+Document box contents, Find eye perscription, Find keys   
+
+[Covid Shot Map](https://myspot.nc.gov/) - 
+[UNC Health](https://www.unchealthcare.org/coronavirus/vaccines/phase-1b-covid-19-vaccine/) - 
+[Walgreens](https://www.walgreens.com/findcare/vaccination/covid-19/location-screening)  
 
 [Apply for a 0% card](https://www.comparecards.com/guide/pay-0-interest-2022)
 
+
+Cemetary urn on mother's lot
+Living Will avoiding cost of probate  
+
+<!--
+	Aetna Insurance 
+-->
 ## Upcoming
 
 #### In March 2021
@@ -54,10 +77,7 @@ Online auth code requested on Feb 18 - Change address once we receive
 Social Security is being forwarded from 721 Grant St to Weatherstone.   
 [ssa.gov/myaccount](https://ssa.gov/myaccount)  
 Mom will recieve an activation code forwarded from 721 Grant St around the end of February.  
-
-### After COVID shot
-
-[Make DMV Appointment - What to bring](https://www.ncdot.gov/dmv/help/moving/Pages/new-residents.aspx) - Early morning and early afternoons tend to be the least busy times. Tuesdays, Wednesdays and Thursdays are great times to visit. Avoid the last day of the month and a lunch time visit – from 11 a.m. to 2 p.m.  
+  
 
 ## Order from InstaCart
 
@@ -82,7 +102,7 @@ Feb 10 payment: $146.99 Mastercard\*8564
 ## Travelers Auto Insurance
 
 [Travelers Auto Insurance](https://www.travelers.com/car-insurance) - 88\*V   
-2006 CHRYSLER PT CRUISER TOURING - VIN 3A4FY58B56T207088 
+2006 CHRYSLER PT CRUISER TOURING - VIN 3A4FY58B56T207088   RQG0118
 
 
 ## Shopping
@@ -90,7 +110,9 @@ Feb 10 payment: $146.99 Mastercard\*8564
 [Food Lion on InstaCart](https://www.instacart.com/store/food-lion/storefront?current_retailer_id=133)
 
 
-## Meet Ups
+## Meet-Ups
+
+Find more local virtual clubs, meetups, senior friend sites.   
 
 [Dog Training, Hiking, and Fun Meetup --- Dog THAF](https://www.meetup.com/DogTHAF/) 
 
@@ -98,12 +120,8 @@ Feb 10 payment: $146.99 Mastercard\*8564
 
 Channel search - Using large remote: source > menu  
 
-Dan's monthly Saturday radio show - [wcomfm.org](https://wcomfm.org/)  
+Dan's monthly radio show - 3rd Saturday, 3-4pm [wcomfm.org](https://wcomfm.org/)  
 <!-- See What Love Did to Me -->
 
-## How to create a Zoom call link
-
-[Go to Zoom.us](https://zoom.us/) and login with your Google Account (Google icon at bottom).  
-Then click "Schedule a Meeting" on the right.  
 
 
