@@ -1,18 +1,25 @@
+
 # Viv's Page
+
+<a href="https://github.com/datascape/start/edit/master/viv/READ.md" style="float:right">Edit Page</a>
 
 ## Make International Call
 
 [voice.google.com](https://voice.google.com) - Enter phone number on right side.  
 
 
-How to share screen with Loren.  Click the "Chrome Desktop Remote" icon in upper right. <img src="chrome-desktop.png" style="width:24px; margin-top:-20px;">  
-
-Click "Share my screen" then click "Generate Code" and read the code to Loren over the phone. 
 
 ## Create a Zoom call link
 
 [Go to Zoom.us](https://zoom.us/) and login with your Google Account (Google icon at bottom).  
 Then click "Schedule a Meeting" on the right.  
+
+
+## Share screen
+
+How to share screen with Loren.  Click the "Chrome Desktop Remote" icon in upper right. <img src="chrome-desktop.png" style="width:24px; margin-top:-20px;">  
+
+Click "Share my screen" then click "Generate Code" and read the code to Loren over the phone. 
 
 
 
@@ -28,7 +35,7 @@ Order new checks
 
 Wednesday, April 07, 2021 at 02:00 pm for Driver License Renewal at Carrboro, 100 NC Hwy 54, Suite 104JJ Carrboro 27510
 
-Bring:  
+[What to bring](https://www.ncdot.gov/dmv/help/moving/Pages/new-residents.aspx):  
 Georgia Licenses  
 SS Card  
 Insurance with NC address  
