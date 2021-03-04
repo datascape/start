@@ -1,11 +1,11 @@
 
 # Viv's Page
 
-<a href="https://github.com/datascape/start/edit/master/viv/READ.md" style="float:right">Edit Page Goodness41</a><!-- MomViv -->
+<a href="https://github.com/datascape/start/edit/master/viv/READ.md" style="float:right">Edit Page</a>
 
 ## Google Doc Notes
 
-[Edit a Google Doc](https://docs.google.com/document/d/1mS1_hj_q7xjgYjrGSSwxWhnkwTk9hCWAHS11yU86CRM/edit?usp=sharing) with my notes.
+[Edit a Google Doc](https://docs.google.com/document/d/1mS1_hj_q7xjgYjrGSSwxWhnkwTk9hCWAHS11yU86CRM/edit?usp=sharing) for notes to share with Loren.
 
 
 ## Make International Call
