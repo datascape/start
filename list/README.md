@@ -24,6 +24,7 @@ Fix light in water heater room
 Check "Retirement" folder or GaBreeze directly for info regarding withdrawals for Ethan's or my college expenses
 Add chicken wire to prevent squirels
 Nest Doorbell  
+Find repair place for touch-activatied light (in attic behind furnace in clear plastic file holder)
 Ethan bike:
 	Tune up chain & breaks
 	Longer kick-stand
@@ -38,6 +39,8 @@ Todd Canale, Lakeview Applicance Service - 888.878.4546 contact@LakeviewApplianc
 
 ## Movies
 
+Ad Astra
+Hidden Figures
 Emma  
 Beasts of the southern wild
 
@@ -78,6 +81,7 @@ Ricota Cheese - Increases muscle mass
 [Yacón](https://en.wikipedia.org/wiki/Yac%C3%B3n) - Farmers Market, originally Peru  
 
 Goldminer Sourdouh Square Bread (Krogers)  
+NOT Farmhouse Pepperidge Farm (too doughy)  
 
 Plant based protein, meatless meat
 

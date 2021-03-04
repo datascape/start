@@ -3,10 +3,14 @@
 
 <a href="https://github.com/datascape/start/edit/master/viv/READ.md" style="float:right">Edit Page</a>
 
+## Google Doc Notes
+
+[Edit a Google Doc](https://docs.google.com/document/d/1mS1_hj_q7xjgYjrGSSwxWhnkwTk9hCWAHS11yU86CRM/edit?usp=sharing) with my notes.
+
+
 ## Make International Call
 
 [voice.google.com](https://voice.google.com) - Enter phone number on right side.  
-
 
 
 ## Create a Zoom call link
@@ -25,11 +29,7 @@ Click "Share my screen" then click "Generate Code" and read the code to Loren ov
 
 ## To Do
 
-Mail RPM stock - Retain McD and Amflac   
-
-Get on denture dentist wait lists  
-
-Order new checks  
+Get on NC denture dentist wait lists  
 
 [Made DMV Appointment - What to bring](https://www.ncdot.gov/dmv/help/moving/Pages/new-residents.aspx) - Early morning and early afternoons tend to be the least busy times. Tuesdays, Wednesdays and Thursdays are great times to visit. Avoid the last day of the month and a lunch time visit – from 11 a.m. to 2 p.m.
 
@@ -52,8 +52,8 @@ Document box contents, Find eye perscription, Find keys
 [Apply for a 0% card](https://www.comparecards.com/guide/pay-0-interest-2022)
 
 
-Cemetary urn on mother's lot
-Living Will avoiding cost of probate  
+<!--Cemetary urn on mother's lot-->
+Create Living Will avoiding cost of probate  
 
 <!--
 	Aetna Insurance 
@@ -72,6 +72,8 @@ AAA expires March 1, 2022 - $68 this year. Ask for special to avoid $94/yr in 20
 ## In Progress
 
 Medicaid - Send paperwork to be recertified in NC (once we get drivers license)
+1(877)423-4746 - DeKalb County (Viv lived in DeKalb from Aug 2019 to Aug 2020)
+
 Georgia Department of Community Health  
 Medicaid ID (Member ID): 222111418212  
 Coverage end date: 2021-08-31 - Qualified Medicare Beneficiary  
